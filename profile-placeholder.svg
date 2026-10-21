@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="1000" viewBox="0 0 820 1000">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d4cdc3"/><stop offset="1" stop-color="#a9a096"/></linearGradient><linearGradient id="coat" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#514e4a"/><stop offset="1" stop-color="#222222"/></linearGradient><radialGradient id="light"><stop stop-color="#eee8df" stop-opacity=".6"/><stop offset="1" stop-color="#d1cbc1" stop-opacity="0"/></radialGradient></defs>
+<rect width="820" height="1000" fill="url(#bg)"/><circle cx="580" cy="270" r="345" fill="url(#light)"/>
+<rect x="45" y="58" width="730" height="884" rx="0" fill="none" stroke="#f4f0e9" opacity=".35"/>
+<path d="M48 1000 C65 795 196 718 342 707 L490 707 C641 729 757 811 795 1000" fill="url(#coat)"/>
+<path d="M340 704 L415 801 L491 703 L525 1000 L304 1000 Z" fill="#c4bdb5"/>
+<path d="M369 606 L371 738 Q414 788 460 736 L465 605" fill="#b9afa6"/>
+<ellipse cx="414" cy="432" rx="175" ry="220" fill="#c8bfb5"/>
+<path d="M235 469 C217 380 230 256 281 217 C323 132 502 136 566 236 Q606 302 592 442 Q561 377 533 331 Q423 353 321 288 Q305 378 239 464Z" fill="#2c2a29"/>
+<path d="M281 217 Q354 120 468 154 Q564 177 596 294" fill="none" stroke="#43403d" stroke-width="35" opacity=".65"/>
+<path d="M321 444 Q351 432 382 447 M452 447 Q483 433 514 444" stroke="#4e4540" fill="none" stroke-width="7" stroke-linecap="round"/>
+<path d="M415 456 L404 530 Q414 542 431 530" fill="none" stroke="#95867d" stroke-width="5" stroke-linecap="round"/>
+<path d="M378 573 Q410 590 448 571" fill="none" stroke="#755d55" stroke-width="6" stroke-linecap="round"/>
+<path d="M305 714 L411 820 L341 1000 M522 714 L420 820 L489 1000" stroke="#89817b" fill="none" stroke-width="4"/>
+<g opacity=".8" stroke="#45413d" stroke-width="5" fill="none"><rect x="317" y="416" rx="23" width="83" height="61"/><rect x="435" y="416" rx="23" width="83" height="61"/><path d="M400 441 Q416 433 435 441 M317 436 L288 429 M518 435 L546 425"/></g>
+<text x="52" y="950" fill="#f3eee7" font-family="Arial, sans-serif" font-size="12" letter-spacing="4">REPLACE WITH YOUR PHOTO</text>
+</svg>
